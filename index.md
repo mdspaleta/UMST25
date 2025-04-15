@@ -2,6 +2,9 @@
 
 # What is Git?
 Git is a popular version control system. It was created by Linus Torvalds in 2005, and has been maintained by Junio Hamano since then.
+
+Link to [404 error message](tmp/404.md)
+
 ![git logo](Git-logo.png)It is used for:
 
 - Tracking code changes
